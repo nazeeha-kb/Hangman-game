@@ -7,7 +7,7 @@ It's built using **JavaScript**, **HTML**, and **Tailwind CSS**. This project wa
 
 Here's a brief of my project - I hope you like it <3
 
-Live Demo: [Play the Game!](https://hangman-game.ct.ws)
+Live Demo: [Play the Game!](https://nazeeha-kb.github.io/Hangman-game/)
 
 
 ## ✨ Features
